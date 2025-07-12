@@ -13,5 +13,6 @@
 #
 # # Empty values are used to reset config keys to default.
 # key =
+font-size=18
 
 theme = ayu
