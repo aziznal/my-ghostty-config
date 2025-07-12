@@ -16,3 +16,7 @@
 font-size=18
 
 theme = ayu
+confirm-close-surface=false
+quit-after-last-window-closed=true
+quick-terminal-animation-duration=0
+quick-terminal-position=center
