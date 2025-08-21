@@ -13,7 +13,7 @@
 #
 # # Empty values are used to reset config keys to default.
 # key =
-font-size=18
+font-size=14
 
 # disable ligatures
 font-feature=-calt
@@ -23,3 +23,5 @@ confirm-close-surface=false
 quit-after-last-window-closed=true
 quick-terminal-animation-duration=0
 quick-terminal-position=center
+
+keybind = ctrl+enter=unbind
